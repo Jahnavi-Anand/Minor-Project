@@ -5,7 +5,7 @@ pageEncoding="UTF-8"%>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Travel Destinations Slider</title>
+    <title>Landing Page</title>
     <link rel="stylesheet" href="style.css" />
     <link
       rel="stylesheet"
@@ -195,9 +195,9 @@ body{
     background: #79ade0; /* Background color for the wrapper */
 }
 
-/* Styling the logo container */
+
 .logo {
-    align-items: bottom; /* Vertically center the logo */
+    align-items: bottom;
 }
 
 /* Styling the logo image */
@@ -206,6 +206,7 @@ body{
     width: auto; /* Maintain the aspect ratio of the logo */
     max-width: 100%; /* Ensure the logo fits within the container */
     transition: transform 0.3s ease; /* Smooth transition effect */
+    
 }
 
 /* Adding a hover effect for the logo */
